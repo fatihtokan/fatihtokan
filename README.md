@@ -14,34 +14,32 @@
 
 ### 🚀 About Me
 
-- 🥇 Graduated as **Valedictorian (1st in Class)** in Computer Programming at **İstanbul Medipol University** (GPA: 3.37 / 4.00).
-- 💻 Specialized in **Web Development** using **Node.js, Express.js, PHP**, and modern database architectures.
-- 🎬 Combining technical software skills with production & media experience.
-- 🛡️ Certified in **Cisco Networking Academy - Introduction to Cybersecurity**.
-- 📍 Based in **Istanbul, Turkey**.
+- 🥇 Graduated as **Valedictorian (1st in Class)** in Computer Programming at **İstanbul Medipol University** (GPA: 3.37 / 4.00)[cite: 1].
+- 💻 Specialized in **Web Development** using **Node.js, Express.js, PHP**, and modern database architectures[cite: 1].
+- 🎬 Combining technical software skills with production & media experience[cite: 1].
+- 🛡️ Certified in **Cisco Networking Academy - Introduction to Cybersecurity**[cite: 1].
+- 📍 Based in **Istanbul, Turkey**[cite: 1].
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 **Programming Languages & Web Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Databases & Tools**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=black" />
-</p>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
 
 ---
 
@@ -60,8 +58,8 @@
 
 #### 🏠 Home Finance - Ev İçi Muhasebe Sistemi
 - **Stack:** Node.js, Express.js, MySQL / Database Architecture[cite: 1]
-- Dynamic web application built to log, filter, and track daily personal and domestic expenses.
-- Designed complete database models, backend routing, and responsive frontend UI.
+- Dynamic web application built to log, filter, and track daily personal and domestic expenses[cite: 1].
+- Designed complete database models, backend routing, and responsive frontend UI[cite: 1].
 
 ---
 
