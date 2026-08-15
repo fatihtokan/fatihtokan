@@ -43,12 +43,12 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=fatihtokan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihtokan&layout=compact&theme=tokyonight&hide=html,css" />
+![Fatih's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fatihtokan&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatihtokan&theme=tokyonight)
 
 </div>
 
